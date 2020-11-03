@@ -1,0 +1,258 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: sans-serif;
+}
+/* <!-- section 1 --> */
+.header-top{
+  border: 30px solid  #00aeff;
+}
+.top-text{
+  position: relative;bottom: 52px;
+  padding-left: 3.9%;
+  font-size: 33px;
+  color: #fff;
+  
+}
+
+/* <!-- section 2 --> */
+
+.section1-container img{
+  width: 100%;
+  height: 70%;
+  position: relative;bottom: 38px;
+}
+.section1-text{
+  position: relative;bottom: 220px;
+  color: #fff;
+  font-size: 17.7px;
+  text-align: center;
+}
+.form{
+  background: white;
+  width: 70%;
+  padding: 37px;
+  font-size: 1.5rem;
+  height: unset;
+  position: relative;left: 11%; bottom: 160px;
+  border: 1px solid rgb(158, 156, 156);
+  
+}
+.input1{
+    background-color: white;
+    border: 1px solid rgb(158, 156, 156);
+    padding: 13px;
+    border-radius: 4px;
+    margin-left: 10px;
+    width: 43%;
+}
+.input2{
+  background-color: white;
+  border: 1px solid rgb(158, 156, 156);
+  padding: 13px;
+  border-radius: 4px;
+  margin-left: 5px;
+  width: 33%;
+
+}
+.form button{
+  color: #fff;
+    background-color: #00aeff;
+    padding: 12px;
+    border-radius: 3px;
+    margin-left: 5px;
+    font-size: 16px;
+    width: 13%;
+}
+.section2-header{
+  text-align: center;
+  position: relative;bottom: 70px;
+  
+}
+.section2-header h3{
+  font-size: 24px;
+    color: #4f4f4f;
+    font-weight: 700;
+    margin: 10px;
+}
+.section2-header p{
+  font-size: 18px;
+    font-weight: 500;
+    color: #4f4f4f;
+}
+.center-line{
+  border-top: 3px solid #00aeff;
+    margin: 1.5rem auto;
+    width: 4rem;
+}
+.state{
+  display: flex;
+  padding-left: 14%;
+  text-align: center;
+}
+.state h3{
+  color: #00aeff;
+}
+.states{
+  border: 2px solid #00aeff;
+  margin: 10px;
+  padding: 25px;
+  border-radius: 4px;
+  padding-bottom: 50px;
+}
+.section3-header{
+  text-align: center;
+  position: relative;top: 53px;
+}
+.section3-header h3{
+  font-size: 24px;
+    color: #4f4f4f;
+    font-weight: 700;
+    margin: 10px;
+}
+.section3-header p{
+  font-size: 18px;
+    font-weight: 500;
+    color: #4f4f4f;
+}
+.images{
+  display: flex;
+  padding-left: 10%;
+  padding-top: 70px;
+}
+.images img{
+  width: 300px;
+  height: 180px;
+  margin: 12px;
+}
+.imagi{
+  display: flex;
+  padding-left: 10%;
+}
+.imagi img{
+  width: 300px;
+  height: 180px;
+  margin: 12px;
+}
+.images1{
+  border: 1px solid #bdbdbd;
+    border-radius: 0 0 4px 4px;
+    height: 40%;
+    position: relative;
+    border-top: 0;
+    margin: 10px; 
+}
+.images1 h3{
+  margin: 15px;
+
+}
+.images1 p{
+  margin: 15px;
+  font-size: 12px;
+}
+.images1 a{
+  color: #00aeff;
+  text-decoration: none;
+}
+.new-section{
+  text-align: center;
+  position: relative;top: 50px;
+  
+}
+.new-section h3{
+  font-size: 24px;
+    color: #4f4f4f;
+    font-weight: 700;
+    margin: 10px;
+}
+.new-section p{
+  font-size: 18px;
+    font-weight: 500;
+    color: #4f4f4f;
+}
+.new-section1{
+  text-align: center;
+  position: relative;top: 50px;
+  
+}
+.new-section1 h3{
+  font-size: 24px;
+    color: #4f4f4f;
+    font-weight: 700;
+    margin: 10px;
+}
+.new-section1 p{
+  font-size: 18px;
+    font-weight: 500;
+    color: #4f4f4f;
+}
+.borddwe{
+  background: rgb(243, 239, 239);
+  position: relative;top: 60px;
+  text-align: center;
+  padding: 40px;
+}
+.borddwe h3{
+  margin-top: 10px;
+  margin: 20px;
+  font-size: 26px;
+}
+.borddwe p{
+  margin: 10px;
+}
+.Subscribe1{
+ border: 1px solid black;
+ padding: 12px;
+ width: 430px;
+ margin: 10px;
+ border-radius: 3px;
+}
+.Subscribe{
+color: #fff;
+background-color: #00aeff;
+padding: 12px;
+border-radius: 3px;
+margin-left: 5px;
+font-size: 16px;
+width: 13%;
+}
+.BBC{
+  text-align: center;
+  position: relative;top: 100px;
+  
+}
+.BBC h3{
+  font-size: 24px;
+    color: #4f4f4f;
+    font-weight: 700;
+    margin: 10px;
+}
+.candy{
+  text-align: center;
+  position: relative;top: 140px;
+  
+}
+.candy h3{
+  font-size: 24px;
+    color: #4f4f4f;
+    font-weight: 700;
+    margin: 10px;
+}
+.candy p{
+  font-size: 18px;
+    font-weight: 500;
+    color: #4f4f4f;
+    margin: 20px;
+}
+.candy button{
+  color: #fff;
+  background-color: #00aeff;
+  padding: 12px;
+  border-radius: 3px;
+  margin-left: 5px;
+  font-size: 16px;
+  width: 13%;
+  margin: 10px;
+
+  }
